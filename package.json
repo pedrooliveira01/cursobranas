@@ -1,0 +1,27 @@
+{
+  "name": "cursobranas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc && jest dist/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrooliveira01/cursobranas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedrooliveira01/cursobranas/issues"
+  },
+  "homepage": "https://github.com/pedrooliveira01/cursobranas#readme",
+  "dependencies": {
+    "@types/jest": "^27.4.1",
+    "jest": "^27.5.1",
+    "ts-jest": "^27.1.4",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  }
+}
